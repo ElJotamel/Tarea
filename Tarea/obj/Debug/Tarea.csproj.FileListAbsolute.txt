@@ -1,0 +1,15 @@
+D:\C#\Tarea\Tarea\bin\Debug\Tarea.exe.config
+D:\C#\Tarea\Tarea\bin\Debug\Tarea.exe
+D:\C#\Tarea\Tarea\bin\Debug\Tarea.pdb
+D:\C#\Tarea\Tarea\bin\Debug\EntityFramework.dll
+D:\C#\Tarea\Tarea\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Tarea\Tarea\bin\Debug\EntityFramework.xml
+D:\C#\Tarea\Tarea\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.Form1.resources
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.Properties.Resources.resources
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.csproj.GenerateResource.cache
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.csproj.CopyComplete
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.exe
+D:\C#\Tarea\Tarea\obj\Debug\Tarea.pdb
